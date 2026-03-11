@@ -45,6 +45,8 @@ Atualmente, concilio minha trajetória acadêmica com a atuação como **Assiste
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=camisabino28&theme=dark&background=1a0a0a&ring=6b2020&fire=e05555&currStreakLabel=f5c0c0&border=3d1515&timezone=America/Sao_Paulo)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=camisabino28&show_icons=true&theme=dark&bg_color=1a0a0a&title_color=f5c0c0&icon_color=e05555&text_color=e8f4f8&border_color=6b2020)
+
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camisabino28&layout=compact&theme=dark&bg_color=1a0a0a&title_color=f5c0c0&text_color=e8f4f8&border_color=6b2020" />
 </div>
 
