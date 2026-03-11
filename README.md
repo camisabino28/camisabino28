@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila%20Sabino-1a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-sabino-r-a8919830a/)
-[![Gmail](https://img.shields.io/badge/Gmail-camilasab2806-3d1515?style=flat-square&logo=gmail&logoColor=white)](mailto:camilasab2806@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-camilasab2806@gmail.com-3d1515?style=flat-square&logo=gmail&logoColor=white)](mailto:camilasab2806@gmail.com)
 [![Ibmec](https://img.shields.io/badge/Ibmec--DF-Ciências%20Econômicas-6b2020?style=flat-square)](https://www.ibmec.br)
 
 </div>
@@ -25,7 +25,6 @@ Atualmente, concilio minha trajetória acadêmica com a atuação como **Assiste
 ![Git](https://img.shields.io/badge/Git-6b2020?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Excel](https://img.shields.io/badge/Excel-3d1515?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-6b2020?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
