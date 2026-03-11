@@ -42,7 +42,7 @@ Atualmente, concilio minha trajetória acadêmica com a atuação como **Assiste
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=camisabino28&show_icons=true&theme=dark&bg_color=1a0a0a&title_color=f5c0c0&icon_color=e05555&text_color=e8f4f8&border_color=6b2020&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camisabino28&theme=react-dark&bg_color=1a0a0a&color=f5c0c0&line=6b2020&point=e05555&area=true&hide_border=true" width="100%" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camisabino28&layout=compact&theme=dark&bg_color=1a0a0a&title_color=f5c0c0&text_color=e8f4f8&border_color=6b2020" />
 </div>
 
